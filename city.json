@@ -1,0 +1,18 @@
+[
+  {
+    "CountryCode": "AFG",
+    "District": "Kabol",
+    "Name": "Kabul",
+    "ID": 1,
+    "timestamp":"2019-06-18T16:55:46.678-07:00",
+    "Population": 1780000
+  },
+  {
+    "CountryCode": "AFG",
+    "District": "Qandahar",
+    "Name": "Qandahar",
+    "ID": 2,
+   "timestamp":"2019-08-19T16:55:46.678-08:00",
+    "Population": 237500
+  }
+]
